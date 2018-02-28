@@ -3,10 +3,10 @@ package com.m3c.BinaryTree;
 import java.util.List;
 
 /**********************
- * Name: BinarySearchTree
- * Author: Alex Ingram
- * Version: 1.0
- * TODO: Test
+ * @Name: BinarySearchTree
+ * @Author: Alex Ingram
+ * @Version: 1.0
+ * @Date: 28/02/2018
  **********************/
 public class Main
 {

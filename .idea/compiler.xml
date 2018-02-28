@@ -9,8 +9,6 @@
         <module name="BinarySearchTree" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="9">
-      <module name="BinarySearchTree" target="9" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="9" />
   </component>
 </project>
